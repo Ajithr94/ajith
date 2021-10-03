@@ -1,0 +1,4 @@
+select FIRST_NAME as WORKER_NAME from WORKER_TABLE;
+select DISTINCT DEPARTMENT from WORKER_TABLE;
+(select * from WORKER_TABLE ORDER BY worker_id DESC LIMIT 5)
+ORDER BY worker_id ASC;

@@ -1,0 +1,33 @@
+# ineuron-tableau-assignments
+What exactly is Tableau?
+ableau is a powerful and fastest growing data visualization tool used in the Business Intelligence Industry. It helps in simplifying raw data in a very easily understandable format. 
+Tableau helps create the data that can be understood by professionals at any level in an organization. It also allows non-technical users to create customized dashboards.
+
+# What are the different Tableau products available?
+The Tableau Product Suite consists of
+Tableau Desktop
+Tableau Public
+Tableau Online
+Tableau Server
+Tableau Reader
+
+# In Tableau, how many tables can you join at once?
+Multiple
+
+# What are the various types of connections you may establish with Tableau and
+your dataset?
+In order to master any Business Intelligence tool, the most basic operation we need to learn is to connect to a data source.
+Once we establish a successful connection with a data source, we can access all its data, bring some part of it in Tableau’s repository (extract) and use it for our analysis.
+Tableau offers a myriad of data sources such as local text files, MS Excel, PDFs, JSON or databases and servers like Tableau Server, MySQL Server, Microsoft SQL Server, etc.
+Connecting to a File
+Tableau offers a variety of options to connect and get data from a file in your system. The connection to a file section has file options such as MS Excel, MS Access, JSON, text file, 
+PDF file, spatial file, etc. In addition to this, with the help of the More option, you can access the data files residing in your system and connect them with Tableau.
+Connecting to a Server
+The connection to a server section has countless options for an online data source. Here you will find connectors to different kinds of online data sources such as,
+
+Server-based Relational Database: Tableau Server, Microsoft SQL Server, Oracle, MySQL, Salesforce, IBM DB, Mongo DB, PostgreSQL, Maria DB, etc.
+Cloud-based Data Sources: Cloudera Hadoop, Google Cloud SQL, Amazon Aurora, etc.
+Web-based Data Sources: Web Data Connector
+Big Data Sources: Google BigQuery
+In-memory Database: SAP HANA
+ODBC and JDBC connections
